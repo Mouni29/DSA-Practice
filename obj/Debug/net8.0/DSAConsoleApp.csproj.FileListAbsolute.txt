@@ -1,0 +1,14 @@
+/Users/mounika/Desktop/LEARN_DSA/DSA-Practice/DSAConsoleApp/bin/Debug/net8.0/DSAConsoleApp
+/Users/mounika/Desktop/LEARN_DSA/DSA-Practice/DSAConsoleApp/bin/Debug/net8.0/DSAConsoleApp.deps.json
+/Users/mounika/Desktop/LEARN_DSA/DSA-Practice/DSAConsoleApp/bin/Debug/net8.0/DSAConsoleApp.runtimeconfig.json
+/Users/mounika/Desktop/LEARN_DSA/DSA-Practice/DSAConsoleApp/bin/Debug/net8.0/DSAConsoleApp.dll
+/Users/mounika/Desktop/LEARN_DSA/DSA-Practice/DSAConsoleApp/bin/Debug/net8.0/DSAConsoleApp.pdb
+/Users/mounika/Desktop/LEARN_DSA/DSA-Practice/DSAConsoleApp/obj/Debug/net8.0/DSAConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mounika/Desktop/LEARN_DSA/DSA-Practice/DSAConsoleApp/obj/Debug/net8.0/DSAConsoleApp.AssemblyInfoInputs.cache
+/Users/mounika/Desktop/LEARN_DSA/DSA-Practice/DSAConsoleApp/obj/Debug/net8.0/DSAConsoleApp.AssemblyInfo.cs
+/Users/mounika/Desktop/LEARN_DSA/DSA-Practice/DSAConsoleApp/obj/Debug/net8.0/DSAConsoleApp.csproj.CoreCompileInputs.cache
+/Users/mounika/Desktop/LEARN_DSA/DSA-Practice/DSAConsoleApp/obj/Debug/net8.0/DSAConsoleApp.dll
+/Users/mounika/Desktop/LEARN_DSA/DSA-Practice/DSAConsoleApp/obj/Debug/net8.0/refint/DSAConsoleApp.dll
+/Users/mounika/Desktop/LEARN_DSA/DSA-Practice/DSAConsoleApp/obj/Debug/net8.0/DSAConsoleApp.pdb
+/Users/mounika/Desktop/LEARN_DSA/DSA-Practice/DSAConsoleApp/obj/Debug/net8.0/DSAConsoleApp.genruntimeconfig.cache
+/Users/mounika/Desktop/LEARN_DSA/DSA-Practice/DSAConsoleApp/obj/Debug/net8.0/ref/DSAConsoleApp.dll
